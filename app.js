@@ -2,4 +2,4 @@ const path = require("path");
 
 global.appRoot = path.resolve(__dirname);
 
-require('autotest/nightwatch.js');
+require('autotest/app.js');
