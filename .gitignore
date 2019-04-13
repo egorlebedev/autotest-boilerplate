@@ -1,0 +1,16 @@
+# common, PHPStorm
+.DS_Store
+.idea/*
+Thumbs.db
+
+# project
+node_modules
+reports/*
+!reports/.gitkeep
+sitemaps/*
+!sitemaps/.gitkeep
+projects/*
+!projects/PROJECT_NAME
+tests_output
+db/*
+chromedriver.log

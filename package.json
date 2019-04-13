@@ -1,0 +1,11 @@
+{
+  "name": "autotest",
+  "version": "0.1.1",
+  "homepage": "https://github.com/egorlebedev/autotest",
+  "description": "Autotest",
+  "author": "Egor Lebedev egorLebedevR@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "autotest": "egorlebedev/autotest"
+  }
+}
