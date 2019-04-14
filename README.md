@@ -13,6 +13,6 @@
 
 #### Кастомные тесты
 
-Регулярыне тесты, которые должны крутится на сервере размещаем, в projects/PROJECT_NAME/common_ext
+Регулярные тесты, которые должны крутится на сервере размещаем, в projects/PROJECT_NAME/common_ext
 
 Свои тесты размещаем в projects/PROJECT_NAME/TEST_NAME
